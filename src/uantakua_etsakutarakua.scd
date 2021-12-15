@@ -6,15 +6,15 @@ s.boot;
 
 
 (
-~f1 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/paspirada.WAV");
-~f2 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/taspirada.WAV");
-~f3 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/tsaspirada.WAV");
-~f4 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/chaspirada.WAV");
-~f5 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/kaspirada.WAV");
-~f6 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/kuaspirada.WAV");
-~f7 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/nhnasal.WAV");
-~f8 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/consonantiecha/rhretrofleja.WAV");
-~f9 = Buffer.read(s,"/home/querra/Escritorio/fonemaecha/vocaliecha/ialta.WAV");
+~f1 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/paspirada.WAV");
+~f2 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/taspirada.WAV");
+~f3 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/tsaspirada.WAV");
+~f4 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/chaspirada.WAV");
+~f5 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/kaspirada.WAV");
+~f6 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/kuaspirada.WAV");
+~f7 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/nhnasal.WAV");
+~f8 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/consonantiecha/rhretrofleja.WAV");
+~f9 = Buffer.read(s,thisProcess.nowExecutingPath.dirname +/+ "fonemaecha/vocaliecha/ialta.WAV");
 )
 
 {PlayBuf.ar(2, ~f1.bufnum, 2)}.play;
