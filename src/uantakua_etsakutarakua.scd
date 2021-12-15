@@ -17,7 +17,7 @@
 //de las principales razones de la pérdida de las lenguas.
 
 ////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\||||||||Uantakua etsakutarakua|||||||||///////////////////////////////////////////////////////////\\
-//El p’urhe es una lengua aislada. Esto signiﬁca que es una familia lingüística por sí misma. Es hablado
+//El p’urhe (purepecha) es una lengua aislada. Esto signiﬁca que es una familia lingüística por sí misma. Es hablado
 //por alrededor de 141, 000 personas, principalmente en la zona
 //noroeste del estado de Michoacán, México. Tradicionalmente se suelen reconocer cuatro regiones
 //p’urhes: Sierra (Juátarhu), Lago (Japontarhu), Cañada (Eraxamani), y Ciénega de Zacapu
