@@ -32,9 +32,13 @@ distinta. Me gustaría que esta pieza fuese una contribución a la realidad ling
 Instrucciones
 
 a. Descarga SuperCollider en https://supercollider.github.io/
+
 b. Descarga la carpeta de este repositorio llamada 'fonemaecha'.
+
 c. Ve a la carpeta llamada 'src' y luego a la carpeta llamada 'uantakua_etsakutarakua.scd'
+
 c.1 Copia todo el texto de la carpeta 'uantakua_etsakutarakua.scd' y pega en SuperCollider
+
 c.2 Declara línea por línea, las 9 líneas que comiencen con
 
 ~f1 = Buffer.read etc.
