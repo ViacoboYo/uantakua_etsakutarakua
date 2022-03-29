@@ -28,3 +28,31 @@ modos de articulación distintos a los existentes en español. Es un ejercicio d
 El lenguaje es una tecnología y es territorio, por ello el objetivo es confrontar a personas
 principalmente mexicanas e hispanohablantes con una estructura lingüística y una sonoridad
 distinta. Me gustaría que esta pieza fuese una contribución a la realidad lingüística no sólo de América Latina sino del mundo: diversa y en resistencia.
+
+Instrucciones
+a. Descarga SuperCollider en https://supercollider.github.io/
+b. Descarga la carpeta de este repositorio llamada 'fonemaecha'.
+c. Ve a la carpeta llamada 'src' y luego a la carpeta llamada 'uantakua_etsakutarakua.scd'
+c.1 Copia todo el texto de la carpeta 'uantakua_etsakutarakua.scd' y pega en SuperCollider
+c.2 Declara línea por línea, las 9 líneas que comiencen con
+
+~f1 = Buffer.read etc.
+
+y las 9 líneas que comiencen con
+
+{PlayBuf.ar etc.
+
+c.3 Declara completo el siguiente bloque llamado Interfaz
+
+Nota: Se declara seleccionando el texto y dando 
+Linux: Tab + Enter
+Mac: 
+Windows: 
+
+En la PostWindow podrás ver que la declaración fue hecha correctamente porque verás un texto color verde.
+
+d. En la interfaz desplegada, pulsa según tu intuición los fonemas.
+e. Escucha.
+
+Escríbeme para dudas, comentarios y colaboraciones: querra.s.boot@gmail.com
+
