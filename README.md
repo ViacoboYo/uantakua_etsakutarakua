@@ -27,7 +27,7 @@ modos de articulación distintos a los existentes en español. Es un ejercicio d
 
 El lenguaje es una tecnología y es territorio, por ello el objetivo es confrontar a personas
 principalmente mexicanas e hispanohablantes con una estructura lingüística y una sonoridad
-distinta. Me gustaría que esta pieza fuese una contribución a la realidad lingüística no sólo de América Latina sino del mundo: diversa y en resistencia.
+distinta. Me gustaría que esta pieza fuese una contribución a la realidad lingüística no sólo de América Latina sino del mundo: diversa y, aunque viva, en resistencia y lucha.
 
 Instrucciones
 
