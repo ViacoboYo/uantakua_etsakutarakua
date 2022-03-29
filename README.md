@@ -30,6 +30,7 @@ principalmente mexicanas e hispanohablantes con una estructura lingüística y u
 distinta. Me gustaría que esta pieza fuese una contribución a la realidad lingüística no sólo de América Latina sino del mundo: diversa y en resistencia.
 
 Instrucciones
+
 a. Descarga SuperCollider en https://supercollider.github.io/
 b. Descarga la carpeta de este repositorio llamada 'fonemaecha'.
 c. Ve a la carpeta llamada 'src' y luego a la carpeta llamada 'uantakua_etsakutarakua.scd'
