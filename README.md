@@ -54,9 +54,10 @@ Linux: Tab + Enter
 Mac: 
 Windows: 
 
-En la PostWindow podrás ver que la declaración fue hecha correctamente porque verás un texto color verde.
+En la PostWindow podrás ver que la declaración fue hecha correctamente porque verás un texto color verde
 
 d. En la interfaz desplegada, pulsa según tu intuición los fonemas.
+
 e. Escucha.
 
 Escríbeme para dudas, comentarios y colaboraciones: querra.s.boot@gmail.com
